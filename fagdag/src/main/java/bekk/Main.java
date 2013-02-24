@@ -1,6 +1,6 @@
-package bekk;
+package main.java.bekk;
 
-import snake.Snake;
+import main.java.snake.Snake;
 
 public class Main {
 

@@ -1,4 +1,4 @@
-package bekk;
+package main.java.bekk;
 
 import java.io.*;
 

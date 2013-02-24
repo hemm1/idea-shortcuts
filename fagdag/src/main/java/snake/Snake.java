@@ -1,4 +1,4 @@
-package snake;
+package main.java.snake;
 
 import javax.swing.*;
 import java.awt.*;
@@ -82,7 +82,7 @@ public class Snake extends JFrame {
     }
 
     public void collision() {
-        System.err.println("Collision! Stopping snake");
+        System.err.println("Collision! Stopping main.java.snake");
         running = false;
     }
 
