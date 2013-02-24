@@ -29,7 +29,7 @@ public class Snake extends JFrame {
 
         makeWorm();
         makeApple();
-        this.setVisible(true);
+        setVisible(true);
     }
 
     private void initPixels() {
