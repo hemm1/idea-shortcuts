@@ -1,6 +1,4 @@
-package main.java.snake;
-
-import snake.SnakePanel;
+package snake;
 
 import javax.swing.*;
 import java.awt.*;
